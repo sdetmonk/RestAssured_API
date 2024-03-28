@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-26T14:36:18 IST" name="Default suite" finished-at="2024-03-26T14:36:20 IST" duration-ms="2311">
+    <groups>
+    </groups>
+    <test started-at="2024-03-26T14:36:18 IST" name="Default test" finished-at="2024-03-26T14:36:20 IST" duration-ms="2311">
+      <class name="DemoAPI.GetApi">
+        <test-method signature="GetAPIAutomation()[pri:0, instance:DemoAPI.GetApi@793be5ca]" started-at="2024-03-26T14:36:18 IST" name="GetAPIAutomation" finished-at="2024-03-26T14:36:20 IST" duration-ms="2279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAPIAutomation -->
+      </class> <!-- DemoAPI.GetApi -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
